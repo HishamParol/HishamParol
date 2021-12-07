@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning, Machine Learning, Data Modelling, Visualization,Analytics etc.
 - 🌱 I’m currently learning Stock Market Analysis.
 - 💞️ I’m looking to collaborate on commercial projects.
-- 📫 How to reach me hishamparol2021@gmail.com
+- 📫 How to reach me hishamparol21@gmail.com
 
 <!---
 HishamParol/HishamParol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
