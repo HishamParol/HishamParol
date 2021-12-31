@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HishamParol
+- 👋 Hi there, I’m @HishamParol
 - 👀 I’m interested in Deep Learning, Machine Learning, Data Modelling, Visualization,Analytics etc.
 - 🌱 I’m currently learning Stock Market Analysis.
 - 💞️ I’m looking to collaborate on commercial projects.
