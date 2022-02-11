@@ -16,7 +16,10 @@ You can click the Preview link to take a look at your changes.
 - 👯 I’m looking to collaborate on Commercial projects 
 - 📫 How to reach me: hishamparol21@gmail.com 
 
-
+<link rel="stylesheet" type="text/css" href="loading-bar.css"/>
+<script type="text/javascript" src="loading-bar.js"></script>
+<div class="ldBar" data-value="50">
+</div>
   
 
 [![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HishamParol)](https://github.com/HishamParol/github-readme-stats)
