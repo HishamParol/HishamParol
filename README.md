@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 ![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DA.png)
 
 #### My interests! 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
 |  Machine Learning. |    Extract, Transform and Load (ETL) pipelines.  |   Statistics.|
 |  Machine Learning. |    Extract, Transform and Load (ETL) pipelines.  |   Statistics.|
 
