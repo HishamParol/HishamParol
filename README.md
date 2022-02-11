@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DA.png)
-
+<!---
 #### My interests! 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-|  Machine Learning. |    Extract, Transform and Load (ETL) pipelines.  |   Statistics.|
-|  Machine Learning. |    Extract, Transform and Load (ETL) pipelines.  |   Statistics.|
+| Languages        | Data Pipelines           | Machine Learning  |  Visualization  | Cloud Computing  |
+| ------------- |:-------------:| :-----:||:-------------:| -----:|
+|  Python |    Apache Kafka  |   Statistics.|
+|  R |    Extract, Transform and Load (ETL) pipelines.  |   Statistics.|
 
 - ##### Extract, Transform and Load (ETL) pipelines.
 - ##### Statistics.
@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 - ##### PowerBI
 - ##### Apache kafka, Airflow
 - ##### AWS & GCP
-
+<!---
 - 🌱 I’m currently learning Etherium Smart contracts 
 - 👯 I’m looking to collaborate on Commercial projects 
 - 📫 How to reach me: hishamparol21@gmail.com 
