@@ -25,7 +25,5 @@ You can click the Preview link to take a look at your changes.
 </br>
 </br>
 
-[![](https://github.com/HishamParol/website-test/blob/main/button_projects.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
-
 
 [![](https://github.com/HishamParol/website-test/blob/main/IMAGESEGMENT.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
