@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 #### My interests! 
 
-- ##### Machine Learning.
+- ##### Machine Learning.   - ##### Extract, Transform and Load (ETL) pipelines.   - ##### Statistics.
 - ##### Extract, Transform and Load (ETL) pipelines.
 - ##### Statistics.
 - ##### Visualization.
