@@ -21,3 +21,6 @@ You can click the Preview link to take a look at your changes.
 [![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HishamParol)](https://github.com/HishamParol/github-readme-stats)
 
 [![](https://github.com/HishamParol/website-test/blob/main/button_image-segmentation.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
+
+
+[![](https://github.com/HishamParol/website-test/blob/main/iIMAGE%20SEGMENTATION%20OF%20AERIAL%20FARMLANDS.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
