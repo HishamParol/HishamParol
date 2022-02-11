@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 #### I am a Data Analyst
 ![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DA.png)
 
-I am interested in Machine Learning, ETL, Statistics, Visualization and Cloud Computing 
+# I am interested in Machine Learning, ETL, Statistics, Visualization and Cloud Computing 
 
-Skills: Python / R / SQL / JavaScript / HTML
+# Skills: Python / R / SQL / JavaScript / HTML
 
 - 🌱 I’m currently learning Solidity Smart contracts 
 - 👯 I’m looking to collaborate on Commercial projects 
