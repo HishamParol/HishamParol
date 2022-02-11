@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 [![](https://github.com/HishamParol/website-test/blob/main/button_image-segmentation.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
 
 
-[![](https://github.com/HishamParol/website-test/blob/main/iIMAGE%20SEGMENTATION%20OF%20AERIAL%20FARMLANDS.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
+[![](https://github.com/HishamParol/website-test/blob/main/IMAGESEGMENT.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
