@@ -16,11 +16,22 @@ You can click the Preview link to take a look at your changes.
 
 ![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DA.png)
 
-#### I am interested in Machine Learning, ETL, Statistics, Visualization and Cloud Computing 
+#### My interests! 
 
-##### Skills: Python / R / SQL / JavaScript / HTML
+- ##### Machine Learning.
+- ##### Extract, Transform and Load (ETL) pipelines.
+- ##### Statistics.
+- ##### Visualization.
+- ##### Cloud Computing.
+- 
+##### My Tech stacks.
+- ##### Python/R
+- ##### SQL
+- ##### PowerBI
+- ##### Apache kafka, Airflow
+- ##### AWS & GCP
 
-- 🌱 I’m currently learning Solidity Smart contracts 
+- 🌱 I’m currently learning Etherium Smart contracts 
 - 👯 I’m looking to collaborate on Commercial projects 
 - 📫 How to reach me: hishamparol21@gmail.com 
 
