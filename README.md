@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 👋, my name is Hisham Parol
 #### I am a Data Analyst
-![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DataAnalyst.jpg)
+![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DA.png)
 
 I am interested in Machine Learning, ETL, Statistics, Visualization and Cloud Computing 
 
