@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋
 ### Who am I? 
 
-- #### I am a Data Analyst 
-- #### 3 Years of experience in Data Science/Software Industry
+- #### I am a Data Analyst.
+- #### 3 Years of experience in Data Science/Software Industry.
 - #### Worked with Telecom Industry to build a recommendation application to provide subscription services, improving the sales.
 - #### Developed data - driven solution for Retail Industry to understand their market and customers, thus reducing the churn rate.
-- #### Created Web application for Energy Company that improved excellent customer satisfaction
+- #### Created Web application for Energy Company that improved customer satisfaction score.
 
 
 ![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DA.png)
