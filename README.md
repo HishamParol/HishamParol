@@ -17,8 +17,13 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: hishamparol21@gmail.com 
 
 
+</br>
+</br>
 
 [![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HishamParol)](https://github.com/HishamParol/github-readme-stats)
+
+</br>
+</br>
 
 [![](https://github.com/HishamParol/website-test/blob/main/button_projects.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
 
