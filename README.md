@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 👯 I’m looking to collaborate on Commercial projects 
 - 📫 How to reach me: hishamparol21@gmail.com 
 
-
+<!---
 </br>
 </br>
 
@@ -27,3 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![](https://github.com/HishamParol/website-test/blob/main/IMAGESEGMENT.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
+<!---
