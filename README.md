@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 </br>
 </br>
 
-[![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HishamParol)](https://github.com/HishamParol/github-readme-stats)
+#### Projects
 
 </br>
 </br>
