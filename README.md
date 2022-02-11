@@ -15,6 +15,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DA.png)
+
+
+</br>
+- 🌱 I’m currently learning Etherium Smart contracts 
+- 👯 I’m looking to collaborate on Commercial projects 
+- 📫 How to reach me: hishamparol21@gmail.com 
+
 <!---
 #### My interests! 
 | Languages        | Data Pipelines           | Machine Learning  |  Visualization  | Cloud Computing  |
