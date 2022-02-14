@@ -28,6 +28,7 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 - 📫 How to reach me: hishamparol21@gmail.com 
 
 #### Projects
+---
 **Semantic Segmentation of Aerial Farm land Images.** 
 
 I built a Computer Vision application to identify weed clusters from large agricultural farmlands. To build the application, I trained over 5000 aerial farm land images using three deep learning models - U-net, DeepLab and FCN. Implemented tranfer learning to study the features. [Read more here](https://github.com/HishamParol/DeepLearning-AerialFarmLand) 
