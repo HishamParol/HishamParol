@@ -27,19 +27,11 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 - 🤍 I like: coding, cappuccino, travelling & photography
 - 📫 How to reach me: hishamparol21@gmail.com 
 
-<h3>
-  <span aria-hidden="true" data-icon="&#x21dd;"></span>
-  Stats
-</h3>
-
-[data-icon]:before {
-  font-family: icons; /* BYO icon font, mapped smartly */
-  content: attr(data-icon);
-  speak: none; /* Not to be trusted, but hey. */
-}
+[Click me](http://www.google.com){: .btn}
 
 
-<button class="button-save large">Big Fat Button</button>
+
+
 <!---
 #### My interests! 
 | Languages        | Data Pipelines           | Machine Learning  |  Visualization  | Cloud Computing  |
