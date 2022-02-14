@@ -27,9 +27,8 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 - 🤍 I like: coding, cappuccino, travelling & photography
 - 📫 How to reach me: hishamparol21@gmail.com 
 
-<button name="button" onclick="http://www.google.com">Click me</button>
 
-
+[![](https://github.com/HishamParol/website-test/blob/main/Screenshot%202022-02-14%20015653.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
 
 
 <!---
@@ -58,5 +57,5 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 </br>
 
 
-[![](https://github.com/HishamParol/website-test/blob/main/IMAGESEGMENT.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
+[![](https://github.com/HishamParol/website-test/blob/main/Screenshot%202022-02-14%20015653.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand)
 <!---
