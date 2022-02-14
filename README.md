@@ -18,8 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 🌱 I’m currently learning Etherium Smart contracts 
+- 🌱 I’m currently learning Etherium Smart contracts
 - 👯 I’m looking to collaborate on Commercial projects 
+- 🤍 I like: coding, cappuccino, travelling & photography
 - 📫 How to reach me: hishamparol21@gmail.com 
 
 <!---
