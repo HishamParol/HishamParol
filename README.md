@@ -27,7 +27,7 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 - 🤍 I like: coding, cappuccino, travelling & photography
 - 📫 How to reach me: hishamparol21@gmail.com 
 
-[Click me](http://www.google.com){: .btn}
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 
 
