@@ -49,7 +49,7 @@ In this project, I demonstrates the practical experience of designing database s
 Inorder to predict the value at risk to buy/sell a stock, I did a monte-carlo simulation running on Amazon Lambda and ec2 instance. While my backend and front end are deployed on GCP cloud and calling an API to AWS cloud. Data and results are stored in AWS s3 bucket. [Read more here](https://github.com/HishamParol/Stock-Market-Dashboard#readme) 
 
 
-[![](https://github.com/HishamParol/website-test/blob/main/Untitled%20Diagram.drawio.png)](https://github.com/HishamParol/Stock-Market-Dashboard/blob/master/index.py)
+[![](https://github.com/HishamParol/website-test/blob/main/Untitled%20Diagram.drawio%20(1).png)](https://github.com/HishamParol/Stock-Market-Dashboard/blob/master/index.py)
 
 
 <!---
