@@ -35,9 +35,9 @@ I built a Computer Vision application to identify weed clusters from large agric
 
 [![](https://github.com/HishamParol/website-test/blob/main/Screenshot%202022-02-14%20015653.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand/blob/master/Semantic_segmentation.ipynb)
 
-**Semantic Segmentation of Aerial Farm land Images.** 
+**Database design, modelling and visulaization using PowerBI.** 
 
-I built a Computer Vision application to identify weed clusters from large agricultural farmlands. To build the application, I trained over 5000 aerial farm land images using three deep learning models - U-net, DeepLab and FCN. Implemented tranfer learning to study the features. [Read more here](https://github.com/HishamParol/DeepLearning-AerialFarmLand) 
+In this project, I demonstrates the practical experience of designing database systems, data modelling using ER Diagram, normalization of historic data, ETL process, designing multidimensional CUBE structures, star-schema and Dashboard reports using PowerBI. [Read more here](https://github.com/HishamParol/Database_design_reporting_PowerBI) 
 
 
 [![](https://github.com/HishamParol/website-test/blob/main/Screenshot%202022-02-14%20015653.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand/blob/master/Semantic_segmentation.ipynb)
