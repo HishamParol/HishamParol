@@ -5,21 +5,26 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there 👋
-### Who am I? 
 
-- #### I am a Data Analyst.
-- #### 3 Years of experience in Data Science/Software Industry.
-- #### Worked with Telecom Industry to build a recommendation application to provide subscription services, improving the sales.
-- #### Developed data - driven solution for Retail Industry to understand their market and customers, thus reducing the churn rate.
-- #### Created Web application for Energy Company that improved customer satisfaction score.
+- #### I am a Data Analyst from London.
+
+Since I was young, I have always enjoyed maths. Coding has become my favourite passion and I love seeing the results of my effort. I am bringing the creativity of data to solve complex business problems. I enjoy cleansing data and turning them into simple and actionable insights. I worked with customer-centric industries, trying to learn the behaviour of customers and adjusting the business strategy focused on solving real human problems by thinking about customers and the value delivered to them.
+
+# Professional Journey
+- 3 years of experience in the Data Science/Software Industry.
+- Worked with Telecom Industry to build a recommendation application to provide subscription services, enhancing the return on marketing investment by 13%.
+- Developed data-driven solution for the Retail Industry to comprehend their market and customers, thus reducing the churn rate by 15%.
+- Created Web application for Energy Company that elevated customer satisfaction score by more than 20%.
+
+# My Education
+- MSc Data Science from the University of Surrey 
+- Bachelors in Electrical and Electronics Engineering from the College of Engineering, Trivandrum. 
 
 
-![I am a Data Analyst](https://github.com/HishamParol/website-test/blob/main/DA.png)
 
 
-
-- 🌱 I’m currently learning Etherium Smart contracts
-- 👯 I’m looking to collaborate on Commercial projects 
+- 🌱 I’m currently learning NLP 
+- 👯 Energized to be part of an innovative organization bringing values to society.  
 - 🤍 I like: coding, cappuccino, travelling & photography
 - 📫 How to reach me: hishamparol21@gmail.com 
 
@@ -41,14 +46,7 @@ You can click the Preview link to take a look at your changes.
 - ##### PowerBI
 - ##### Apache kafka, Airflow
 - ##### AWS & GCP
-<!---
-- 🌱 I’m currently learning Etherium Smart contracts 
-- 👯 I’m looking to collaborate on Commercial projects 
-- 📫 How to reach me: hishamparol21@gmail.com 
 
-<!---
-</br>
-</br>
 
 # Projects
 
