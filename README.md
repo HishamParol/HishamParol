@@ -32,6 +32,12 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
   Stats
 </h3>
 
+[data-icon]:before {
+  font-family: icons; /* BYO icon font, mapped smartly */
+  content: attr(data-icon);
+  speak: none; /* Not to be trusted, but hey. */
+}
+
 <!---
 #### My interests! 
 | Languages        | Data Pipelines           | Machine Learning  |  Visualization  | Cloud Computing  |
