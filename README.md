@@ -27,6 +27,11 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 - 🤍 I like: coding, cappuccino, travelling & photography
 - 📫 How to reach me: hishamparol21@gmail.com 
 
+<h3>
+  <span aria-hidden="true" data-icon="&#x21dd;"></span>
+  Stats
+</h3>
+
 <!---
 #### My interests! 
 | Languages        | Data Pipelines           | Machine Learning  |  Visualization  | Cloud Computing  |
