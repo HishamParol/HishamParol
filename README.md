@@ -23,7 +23,7 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 
 </br>
 
-- 🌱 I’m currently learning NLP 
+- 🌱 I’m currently learning Genetic Algorithms 
 - 👯 Energized to be part of an innovative organization bringing values to society.  
 - 🤍 I like: coding, cappuccino, travelling & photography
 - 📫 How to reach me: hishamparol21@gmail.com 
