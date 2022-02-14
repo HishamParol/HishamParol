@@ -32,14 +32,14 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 ---
 **Semantic Segmentation of Aerial Farm land Images.** 
 
-I built a Computer Vision application to identify weed clusters from large agricultural farmlands. To build the application, I trained over 5000 aerial farm land images using three deep learning models - U-net, DeepLab and FCN. Implemented tranfer learning to study the features. [Read more here](https://github.com/HishamParol/DeepLearning-AerialFarmLand) 
+I built a Computer Vision application to identify weed clusters from large agricultural farmlands. To build the application, I trained over 5000 aerial farm land images using three deep learning models - U-net, DeepLab and FCN. Implemented tranfer learning to study the features. [Read more here](https://github.com/HishamParol/DeepLearning-AerialFarmLand#readme) 
 
 
 [![](https://github.com/HishamParol/website-test/blob/main/Jupyternotebook.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand/blob/master/Semantic_segmentation.ipynb)
 
 **Database design, modelling and visualization using PowerBI.** 
 
-In this project, I demonstrates the practical experience of designing database systems, data modelling using ER Diagram, normalization of historic data, ETL process, designing multidimensional CUBE structures, star-schema and Dashboard reports using PowerBI. [Read more here](https://github.com/HishamParol/Database_design_reporting_PowerBI) 
+In this project, I demonstrates the practical experience of designing database systems, data modelling using ER Diagram, normalization of historic data, ETL process, designing multidimensional CUBE structures, star-schema and Dashboard reports using PowerBI. [Read more here](https://github.com/HishamParol/Database_design_reporting_PowerBI#readme) 
 
 
 [![](https://github.com/HishamParol/website-test/blob/main/Untitled%20Diagram.drawio.png)](https://github.com/HishamParol/Database_design_reporting_PowerBI/blob/main/PowerBI/BI_Report.pdf)
