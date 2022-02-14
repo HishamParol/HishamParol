@@ -35,7 +35,7 @@ I built a Computer Vision application to identify weed clusters from large agric
 
 [![](https://github.com/HishamParol/website-test/blob/main/Screenshot%202022-02-14%20015653.png)](https://github.com/HishamParol/DeepLearning-AerialFarmLand/blob/master/Semantic_segmentation.ipynb)
 
-**Database design, modelling and visulaization using PowerBI.** 
+**Database design, modelling and visualization using PowerBI.** 
 
 In this project, I demonstrates the practical experience of designing database systems, data modelling using ER Diagram, normalization of historic data, ETL process, designing multidimensional CUBE structures, star-schema and Dashboard reports using PowerBI. [Read more here](https://github.com/HishamParol/Database_design_reporting_PowerBI) 
 
