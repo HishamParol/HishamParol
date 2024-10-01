@@ -26,7 +26,10 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 - 🌱 I’m currently learning Genetic Algorithms 
 - 👯 Energized to be part of an innovative organization bringing values to society.  
 - 🤍 I like: coding, cappuccino, travelling & photography
-- 📫 How to reach me: hishamparol21@gmail.com 
+- 📫 How to reach me: hishamparol21@gmail.com
+
+### Visit my Repositories
+[![](https://github.com/HishamParol/website-test/blob/main/Jupyternotebook.png)](https://github.com/HishamParol?tab=repositories)
 
 ### Projects
 ---
