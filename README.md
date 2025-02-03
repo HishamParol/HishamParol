@@ -11,7 +11,8 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 
 ### Professional Journey
 ---
-- 5 years of experience in the Data Science/Software Industry.
+- 6 years of experience in the Data Science/Software Industry.
+- Working in a Logistics and Distribution company, Key role in managing, transforming and building data models, data pipelines
 - Worked with Telecom Industry to build a recommendation application to provide subscription services, enhancing the return on marketing investment by 13%.
 - Developed data-driven solution for the Retail Industry to comprehend their market and customers, thus reducing the churn rate by 15%.
 - Created Web application for Energy Company that elevated customer satisfaction score by more than 20%.
@@ -23,7 +24,7 @@ Since I was young, I have always enjoyed maths. Coding has become my favourite p
 
 </br>
 
-- 🌱 I’m currently learning Genetic Algorithms 
+- 🌱 I’m currently learning Gen AI 
 - 👯 Energized to be part of an innovative organization bringing values to society.  
 - 🤍 I like: coding, cappuccino, travelling & photography
 - 📫 How to reach me: hishamparol21@gmail.com
